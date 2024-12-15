@@ -223,9 +223,4 @@ Rubyで機械学習といえば[Red Data Tools](https://red-data-tools.github.io
 
 形態素解析とか単語分散表現とか僕自身全然わかってないんですけど、この記事を見たきっかけでやってみたって人が、詳しくなって僕にレクチャーしてくれることを期待しています。詳しくなられたらぜひ[@buta_botti](https://twitter.com/buta_botti)までご連絡お待ちしております。
 
-
-# ゲームのお誘い
-
-最近「among us engineer」というdiscordのサーバーでAmong Usしたり、麻雀したり、マリオパーティーしたりして遊んでます。メインは毎週金曜日にやるAmong Usなんですが、参加人数が毎回ギリギリなので、参加していただけると嬉しいなぁと思ってます。Ruby勢だと[@mametter](https://twitter.com/mametter)さん[@sinsoku_listy](https://twitter.com/sinsoku_listy)さんもいます。ぜひぜひ。こちらも興味があれば[@buta_botti](https://twitter.com/buta_botti)までご連絡お待ちしております。
-
 では。
